@@ -21,7 +21,7 @@ After carrying out an EDA on the data. The next step is to profer data driven so
 
 # Recommendations
 
--We have more married customers than any other group and as such more campaigns like discounts,after sales service should be directed to them in order to retain and satisfy them.
+- We have more married customers than any other group and as such more campaigns like discounts,after sales service should be directed to them in order to retain and satisfy them.
 
 - Meat is the highest selling product as such, every campaign used in selling it should be maintained. Campaigns for other products should be improved on.
 
